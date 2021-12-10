@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App {
+  background-image: url("music.jpg");
+  position: fixed;
+  background-size: cover;
+  min-width: 100%;
+  min-height: 100%;
+  background-position: center;
+}
